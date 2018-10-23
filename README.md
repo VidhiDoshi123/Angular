@@ -4,3 +4,7 @@ You can use ollowing commands to run.
 
 1.cd src
 2.npm start
+
+APM
+
+Original Course Repo: https://github.com/deborahk/angular-gettingstarted
